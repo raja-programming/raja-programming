@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **☕ Java (Core, JDBC, Servlets, JSP, Spring Boot, Spring Security)**
 
-- 📫 How to reach me ****your.email@example.com****
+- 📫 How to reach me ****rajacs401@gmail.com****
 
 - ⚡ Fun fact ****⚡ Git says my code is committed. I say I am too 😎****
 

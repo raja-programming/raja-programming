@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **📧 rajacs401@gmail.com 📞 +91 85248 63327**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tgViH582nDbDgj-QriY-RVz-TTyW3lRh/view?usp=drive_link](https://drive.google.com/file/d/1tgViH582nDbDgj-QriY-RVz-TTyW3lRh/view?usp=drive_link)
-
 - ⚡ Fun fact **### ⚡ Fun fact: Git says my code is committed. I say I am too 😎**
 
 <h3 align="left">Connect with me:</h3>

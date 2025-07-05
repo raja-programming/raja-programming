@@ -20,7 +20,7 @@
 
 - 📫 How to reach me ****your.email@example.com****
 
-- ⚡ Fun fact ****### ⚡ Fun fact: Git says my code is committed. I say I am too 😎****
+- ⚡ Fun fact ****⚡ Git says my code is committed. I say I am too 😎****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
